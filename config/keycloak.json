@@ -1,0 +1,8 @@
+{
+  "realm": "quantant-realm",
+  "auth-server-url": "https://quantant-keycloak.chinaeast.cloudapp.chinacloudapi.cn/auth/",
+  "ssl-required": "external",
+  "resource": "quantant-video",
+  "public-client": true,
+  "confidential-port": 0
+}
